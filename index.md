@@ -4,6 +4,21 @@ I've been working in Healthcare IT professionally since 2007.  Over the last 4 y
 
 ![Image](Images/Matts_Happy_Headshot.jpg)
 
+## My Blog:
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title}}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
+## My Project Repos:
+<ul>
+<li><a href="https://github.com/Shepherd921/HelloWorld">Hello World Project</a></li>
+</ul>
+
 ## Get in Touch:
 * [GitHub](http://github.com/Shepherd921)  
 * [LinkedIn](https://www.linkedin.com/in/matthew-shepherd-5a961662/)  
@@ -14,23 +29,5 @@ I've been working in Healthcare IT professionally since 2007.  Over the last 4 y
 * [Instagram](https:/https://www.instagram.com/shepdogg921/)  
 * [Pinterest](https://www.pinterest.com/matthewshepherd2182/_saved/)  
 * [Exophase](https://www.exophase.com/user/shepdogg921/)  
-
-
-# My Blog:
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title}}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-
-# My Project Repos:
-
-<ul>
-<li><a href="https://shepherd921.github.io/HelloWorld/">Hello World Project</a></li>
-</ul>
 
 ![Image](Images/OctoCat.png)  
