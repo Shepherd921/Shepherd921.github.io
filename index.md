@@ -1,20 +1,37 @@
-# Matthew Shepherd  
+# Matthew Shepherd
 
-![Image](C:\Users\sheph\Documents\GitHub\Shepherd921.github.io\Images\OctoCat.png)
 
-## Links:
-[GitHub](http://github.com/Shepherd921)  
+## ABOUT ME:
+I've been working in Healthcare IT professionally since 2007.  Over the last 4 years, I've been programming within the framework of the Electronic Health Record application we use.  I've recently rekindled my desire to grow in my craft and I'm excited for my future as a Software Developer.  
 
-[Twitter](http://twitter.com/shepdogg921)  
 
-[Twitch](https://www.twitch.tv/shepherd921)  
+![Image](Images/Matts_Happy_Headshot.jpg)
 
-[Steam](https://steamcommunity.com/profiles/76561197998312360/)  
+test number 2
+<ul>
+<li> <a href="https://twitter.com/{{site.twitter_username}}">Twitter</a></li>
+</ul>
 
-[Facebook](http://https://www.facebook.com/matthew.shepherd.777)  
+## Get in Touch:
+* [GitHub](http://github.com/Shepherd921)  
+* [LinkedIn](https://www.linkedin.com/in/matthew-shepherd-5a961662/)  
+* [Twitter](http://twitter.com/shepdogg921)  
+* [Twitch](https://www.twitch.tv/shepherd921)  
+* [Steam](https://steamcommunity.com/profiles/76561197998312360/)  
+* [Facebook](http://https://www.facebook.com/matthew.shepherd.777)  
+* [Instagram](https:/https://www.instagram.com/shepdogg921/)  
+* [Pinterest](https://www.pinterest.com/matthewshepherd2182/_saved/)  
+* [Exophase](https://www.exophase.com/user/shepdogg921/)  
 
-[Instagram](https:/https://www.instagram.com/shepdogg921/)  
 
-[Pinterest](https://www.pinterest.com/matthewshepherd2182/_saved/)  
+# My Blog:
 
-[Exophase](https://www.exophase.com/user/shepdogg921/)  
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="posts.2021-02-18-new-year.md">post.2021-02-18-new-year</a>
+    </li>
+  {% endfor %}
+</ul>
+
+![Image](Images/OctoCat.png)  
